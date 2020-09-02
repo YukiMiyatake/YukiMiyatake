@@ -1,8 +1,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=YukiMiyatake)](https://github.com/ryo-ma/github-profile-trophy)
 # My Qiita posts
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/mikkame/posts.svg)](http://qiita.com/YukiMiyatake)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/YukiMiyatake/posts.svg)](http://qiita.com/YukiMiyatake)
 # My Qiita contributions
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/mikkame/contributions.svg)](http://qiita.com/YukiMiyatake)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/YukiMiyatake/contributions.svg)](http://qiita.com/YukiMiyatake)
 # My Qiita followers
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/YukiMiyatake/followers.svg)](http://qiita.com/YukiMiyatake)
 
