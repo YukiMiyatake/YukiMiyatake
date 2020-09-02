@@ -4,7 +4,7 @@
 # My Qiita contributions
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/mikkame/contributions.svg)](http://qiita.com/YukiMiyatake)
 # My Qiita followers
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/mikkame/followers.svg)](http://qiita.com/YukiMiyatake)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/YukiMiyatake/followers.svg)](http://qiita.com/YukiMiyatake)
 
 <!--
 **YukiMiyatake/YukiMiyatake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
