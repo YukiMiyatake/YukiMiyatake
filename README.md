@@ -1,8 +1,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=YukiMiyatake)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=YukiMiyatake)
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=YukiMiyatake&repo=AsyncBotCrawler)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=YukiMiyatake)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=YukiMiyatake&count_private=true&theme=monokai)
+<!-- ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=YukiMiyatake&repo=AsyncBotCrawler) -->
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=YukiMiyatake&count_private=true&theme=monokai)
 
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/YukiMiyatake/posts.svg)](http://qiita.com/YukiMiyatake)
